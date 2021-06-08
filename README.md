@@ -43,9 +43,12 @@ Editing 'mount' (like how you would normally do stuff on the Linux commandline):
 <img src="Screenshots/editing_mount.png">
 
 Showing the results on the filesystem as 'disk_memory.py' is running on 'mount' and commands are run on/in 'mount':
-1) <img src="Screenshots/editing_mount_and_running_disk_memory_(1).png">
-2) <img src="Screenshots/editing_mount_and_running_disk_memory_(2).png">
-3) <img src="Screenshots/editing_mount_and_running_disk_memory_(3).png">
+1)
+<img src="Screenshots/editing_mount_and_running_disk_memory_(1).png">
+2)
+<img src="Screenshots/editing_mount_and_running_disk_memory_(2).png">
+3)
+<img src="Screenshots/editing_mount_and_running_disk_memory_(3).png">
 
 ## Provided files:
 
