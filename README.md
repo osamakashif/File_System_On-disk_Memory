@@ -46,8 +46,10 @@ Showing the results on the filesystem as 'disk_memory.py' is running on 'mount' 
 
 1)
 <img src="Screenshots/editing_mount_and_running_disk_memory_(1).png">
+
 2)
 <img src="Screenshots/editing_mount_and_running_disk_memory_(2).png">
+
 3)
 <img src="Screenshots/editing_mount_and_running_disk_memory_(3).png">
 
